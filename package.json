@@ -1,7 +1,7 @@
 {
-  "name": "chat-noserver",
+  "name": "html-lec",
   "version": "0.0.1",
-  "description": "Just HTML and CSS example, no server-side code",
+  "description": "HTML examples",
   "scripts": {
     "start-dev": "NODE_ENV=development && node_modules/nodemon/bin/nodemon.js src/server",
     "start": "NODE_ENV=production && node_modules/nodemon/bin/nodemon.js src/server"
